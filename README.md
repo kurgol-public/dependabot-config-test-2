@@ -1,0 +1,1 @@
+# dependabot-config-test-2
